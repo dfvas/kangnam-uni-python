@@ -1,1 +1,1 @@
-# kangnam-uni-python
+# 코드 리뷰
