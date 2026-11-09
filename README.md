@@ -1,1 +1,4 @@
-# 코드 리뷰
+# 코드 
+
+pip install pygame
+python main.py
